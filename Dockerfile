@@ -1,4 +1,4 @@
-FROM ubuntu:14.04.4
+FROM ubuntu:16.04
 MAINTAINER Mandus Momberg <mandus@momberg.me>
 
 ENV PDNS_DATABASE="pdns_backend" PDNS_USER="pdns_admin" PDNS_PASSWORD="pdns_admin_password"
